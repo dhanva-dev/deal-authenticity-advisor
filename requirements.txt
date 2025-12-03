@@ -1,0 +1,8 @@
+pandas
+snowflake-connector-python
+python-dotenv
+playwright
+beautifulsoup4
+sqlalchemy 
+psycopg2-binary  
+# psycopg2 is for Postgres - keeping it here since it's in your stack plan

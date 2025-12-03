@@ -1,0 +1,17 @@
+# Security (NEVER UPLOAD THESE)
+.env
+config.py
+secrets.json
+
+# Python junk
+__pycache__/
+*.pyc
+venv2/
+.venv/
+env/
+
+# Mac junk (if applicable)
+.DS_Store
+
+# Power BI temp files
+*.pbix
