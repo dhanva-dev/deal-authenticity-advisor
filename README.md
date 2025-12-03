@@ -19,8 +19,4 @@ A data pipeline that tracks product prices on Amazon/Flipkart, detects fake disc
 * **Fake Discount Detection:** Compares current price against a 30-day moving average (not just MRP).
 * **Volatility Analysis:** Uses Standard Deviation to identify statistically significant price drops.
 * **Automated Pipeline:** Runs daily to build a historical dataset.
-
-### **Dashboard Preview**
-*(Drag and drop your screenshot here after you push to GitHub!)*
-
 ---
